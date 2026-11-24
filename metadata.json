@@ -1,0 +1,6 @@
+{
+  "name": "DIGITAL SOS",
+  "description": "AI-Powered Digital Safety Assistant – Trợ lý AI phát hiện nguy cơ lừa đảo, kiểm tra tin nhắn, đường link và hướng dẫn an toàn trên không gian số.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
